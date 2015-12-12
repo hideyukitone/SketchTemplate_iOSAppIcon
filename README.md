@@ -2,6 +2,8 @@
 Sketch iOSアプリアイコン用のテンプレートです。
 複数サイズのアイコンを簡単に作成できます。
 
+http://qiita.com/hideyukitone/items/53c33fee6616681c6b6b
+
 - icon-29XXX.png：iOSアイコン用(Assets.xcassetsに入れてください)
 - icon-40XXX.png：iOSアイコン用(Assets.xcassetsに入れてください)
 - icon-60XXX.png：iOSアイコン用(Assets.xcassetsに入れてください)
